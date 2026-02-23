@@ -1,2 +1,2 @@
-add_lunch_combo omni_j3xltebmc-eng
-add_lunch_combo omni_j3xltebmc-userdebug
+add_lunch_combo omni_j3xltexx-eng
+add_lunch_combo omni_j3xltexx-userdebug

@@ -1,6 +1,6 @@
 TARGET_OTA_ASSERT_DEVICE := j3xltexx
 
-DEVICE_TREE := device/samsung/j3xltebmc
+DEVICE_TREE := device/samsung/j3xltexx
 
 USE_CAMERA_STUB := true
 
